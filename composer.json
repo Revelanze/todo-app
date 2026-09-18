@@ -1,0 +1,7 @@
+{
+    "name": "kelas/todo-app",
+    "description": "Aplikasi Manajemen Tugas Kelas - UAS Pengembangan Web Sisi Server",
+    "require": {
+        "nesbot/carbon": "^2.72"
+    }
+}
